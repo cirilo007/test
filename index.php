@@ -1,5 +1,3 @@
 <?php
-echo "hello world";
-echo "wassup ?!";
-echo "dude";
+echo "hello world1";
  ?>
